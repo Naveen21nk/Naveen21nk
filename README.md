@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Naveen Kumar 👋
+# I'm Naveen Kumar 
 
 I'm a student interested in Cloud Computing, DevOps,
 Linux, Python, SQL and Data Analytics.
